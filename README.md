@@ -103,14 +103,7 @@ python3 app.py
 
     ![about_page](./assets/image-5.png)
 
-## Contributors
 
-- [Shardul Khade](https://github.com/shark-21)
-- [Mihir Rathod](https://github.com/m-g-rathod)
-- [Prit Kanadiya](https://github.com/PritK99)
-- [Devayani Chandane](https://github.com/devayani03)
-- [Kavan Gandhi](https://github.com/KGan31)
-- [Vedant Nimje](https://github.com/vrnimje)
 
 ## References
 
